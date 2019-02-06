@@ -117,3 +117,41 @@ a {
     margin-right: 15px;
     padding-right: 15px;
   }
+
+
+
+@media only screen and (max-width: 640px) {
+  .page {
+    float: left;
+    width: 44%; 
+
+  }
+
+  
+  .nav {
+    float: left;
+    width: 100%;
+    
+  }
+
+  .nav li {
+    float: left;
+    width: 20%;
+    display: inline;
+    
+  }
+
+  .main {
+    padding-left: 15px;
+    margin: 0 0 30px;
+    width: 90%;
+    
+  }
+  
+  
+ 
+
+
+
+
+}
